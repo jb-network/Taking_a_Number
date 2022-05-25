@@ -3,6 +3,7 @@
 // This challenge requires a method that provides a return entered by the user
 // This challenge requires a method that can determine if a number provided by a user is in a range
 // Added Next Program and End Program Methods for future use
+// Note: This is using local functions rather than methods
 
 
 
